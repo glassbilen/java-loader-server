@@ -1,0 +1,6 @@
+/bin/
+config.cfg
+errors/
+libs/
+logs/
+.settings/
